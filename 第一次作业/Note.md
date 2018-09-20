@@ -18,7 +18,7 @@
 
 + 1007 注意输出 
 
-  + >1. there is a blank line between outputs. 
+    >1. there is a blank line between outputs. 
     >2. followed by a blank line.
     >3. and with one line of output for each line in input.
 
