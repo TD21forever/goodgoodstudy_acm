@@ -2,8 +2,10 @@
 * @Author: TD21forever
 * @Date:   2018-09-30 21:01:25
 * @Last Modified by:   TD21forever
-* @Last Modified time: 2018-09-30 23:27:28
+* @Last Modified time: 2018-10-05 11:23:56
 */
+
+//能否成图问题
 #include<stdio.h>
 #include<stdlib.h>
 int cmp(const void *a, const void *b)

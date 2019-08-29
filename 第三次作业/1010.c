@@ -2,7 +2,7 @@
 * @Author: TD21forever
 * @Date:   2018-09-30 23:05:14
 * @Last Modified by:   TD21forever
-* @Last Modified time: 2018-10-01 00:37:17
+* @Last Modified time: 2018-10-05 11:23:52
 */
 #include<stdio.h>
 #include<stdlib.h>
@@ -64,7 +64,7 @@ int main(int argc, char const *argv[])
 		if (flag)
 		{
 			printf("%s\n", "YES");
-			for (int i = 0; i < n; ++i)
+			for (int i = 0; i < n; ++i)  //打印
 			{
 				for (int j = 0; j < n; ++j)
 				{
@@ -80,7 +80,7 @@ int main(int argc, char const *argv[])
 				printf("\n");
 			}
 		}
-		if ((n - 1) != 0)
+		if ((n - 1) != 0) //最后一行没有回车
 		{
 			printf("\n");
 		}

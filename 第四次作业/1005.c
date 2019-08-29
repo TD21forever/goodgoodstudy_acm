@@ -2,8 +2,10 @@
 * @Author: TD21forever
 * @Date:   2018-10-11 22:20:56
 * @Last Modified by:   TD21forever
-* @Last Modified time: 2018-10-11 23:20:44
+* @Last Modified time: 2018-10-14 17:36:26
 */
+
+//折线分割平面
 
 #include<stdio.h>
 #include<stdlib.h>

@@ -2,12 +2,12 @@
 * @Author: TD21forever
 * @Date:   2018-10-11 22:20:56
 * @Last Modified by:   TD21forever
-* @Last Modified time: 2018-10-12 00:27:49
+* @Last Modified time: 2018-10-14 17:36:22
 */
 
 #include<stdio.h>
 #include<stdlib.h>
-
+//悼念512汶川大地震遇难同胞——重建希望小学
 int main(int argc, char const *argv[])
 {
 	int m;

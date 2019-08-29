@@ -2,9 +2,10 @@
 * @Author: TD21forever
 * @Date:   2018-10-11 22:20:56
 * @Last Modified by:   TD21forever
-* @Last Modified time: 2018-10-12 00:26:14
+* @Last Modified time: 2018-10-14 17:36:24
 */
 
+//母牛的故事
 #include<stdio.h>
 #include<stdlib.h>
 

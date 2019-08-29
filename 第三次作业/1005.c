@@ -2,8 +2,9 @@
 * @Author: TD21forever
 * @Date:   2018-09-30 12:45:25
 * @Last Modified by:   TD21forever
-* @Last Modified time: 2018-09-30 19:56:42
+* @Last Modified time: 2018-10-05 11:23:57
 */
+//田忌赛马 输的扣两百 赢得得两百
 #include<stdio.h>
 #include<stdlib.h>
 int main(int argc, char const *argv[])
